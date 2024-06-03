@@ -3,10 +3,19 @@ site_url: https://mydomain.org/mysite
 theme:
   name: material
   palette:
+  - media: "(prefers-color-scheme: light)"
+    scheme: default
     primary: blue grey
     accent: deep purple
-    media: "(prefers-color-scheme: dark)"
-    scheme: slate
     toggle:
       icon: material/brightness-4
       name: Switch to light mode
+  - media: "(prefers-color-scheme: dark)"
+    scheme: slate
+    primary: blue grey
+    accent: deep purple
+    toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+    
+    
