@@ -14,7 +14,7 @@ Many things have taken from old guides and I have just updated those and made a 
 
 ## Resources taken from and modified:
 
-- [Unlocking Bootloader](https://telegra.ru/Unlocking-Bootloader-05-24)
+- [Unlocking Bootloader](https://telegra.ph/Unlocking-Bootloader-05-24)
 - [Rooting method](https://telegra.ph/Rooting-Method-02-15)
 - [Fastboot ROM flashing method](https://telegra.ph/How-to-flash-miui-fastboot-rom-05-27)
 - [Unbrick guide](https://guide.itsvixano.me/preloader_xaga)
