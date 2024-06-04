@@ -1,4 +1,4 @@
----
+﻿---
 hide:
   - navigation
 ---
@@ -9,7 +9,7 @@ hide:
 *You can skip straight to step 6 if you have already patched a **boot.img**. You can find a patched **boot.img** in your device group's respective notes or channels, wherever they may be.* 
 
 ## Finding Boot image
-1. Download and copy the respective **boot.img** on your phone. Can be found in your respective device's group or inside fastboo ROM in images folder or you can use payload dumper to pull **boot.img**. Refer to [this](https://telegra.ph/Payload-Dumper-Guide-02-15) note for that guide.
+1. Download and copy the respective **boot.img** on your phone. Can be found in your respective device's group or inside fastboot ROM in images folder, or you can use payload dumper to pull **boot.img**. Refer to [this](https://telegra.ph/Payload-Dumper-Guide-02-15) note for that guide.
 
 2. Download and Install the Magisk (or KernelSU) apk on your phone. 
 
@@ -46,7 +46,7 @@ Your device should be detected in CMD.
 ```
 fastboot flash boot <patched boot.img> 
 ```
-**patched boot.img** = Your respective patched image.
+**Patched boot.img** = Your respective patched image.
 
 Command window should show a finished indication. 
 
