@@ -1,9 +1,14 @@
+---
+hide:
+  - navigation
+---
 #**Root**
 **You will need a laptop/PC for this. Bootloader must be unlocked for this.**
 
 
 *You can skip straight to step 6 if you have already patched a **boot.img**. You can find a patched **boot.img** in your device group's respective notes or channels, wherever they may be.* 
 
+## Finding Boot image
 1. Download and copy the respective **boot.img** on your phone. Can be found in your respective device's group or inside fastboo ROM in images folder or you can use payload dumper to pull **boot.img**. Refer to [this](https://telegra.ph/Payload-Dumper-Guide-02-15) note for that guide.
 
 2. Download and Install the Magisk (or KernelSU) apk on your phone. 
@@ -12,9 +17,13 @@
 
 4. A new patched Magisk (or KernelSU) **boot.img** should be saved in downloads folder. 
 
-Download Platform tools on your PC/ Laptop from here https://developer.android.com/studio/releases/platform-tools
+***
+**Download Platform tools on your PC/ Laptop from [here](https://developer.android.com/studio/releases/platform-tools)**
 
-Install universal ADB Drivers as well from, here https://adb.clockworkmod.com/
+**Install universal ADB Drivers as well from, [here](https://adb.clockworkmod.com/)**
+***
+
+## Flashing Boot image
 
 6. Copy that patched Magisk (or KernelSU) **boot.img** to platform tools folder in your laptop or PC. You can rename the patched image for your own convenience. 
 

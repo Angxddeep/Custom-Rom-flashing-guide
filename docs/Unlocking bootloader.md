@@ -1,4 +1,8 @@
-﻿#**Unlocking Bootloader**
+﻿---
+hide:
+  - navigation
+---
+#**Unlocking Bootloader**
 **It's the first step for doing anything, whether it's flashing Custom ROM or rooting your device**
 
 So let's get ahead
@@ -15,7 +19,7 @@ So let's get ahead
 
 • A USB cable
 
-
+## Steps on Phone
 -> You have to connect your account with the Mi Unlock authorization tab, which you can find in the developer settings.
 
 -> Open the device settings > Tap on About phone > Scroll down and tap on MIUI version five times. This will unlock the developer options in your device, which can be located in “Additional Settings” tab.
@@ -26,15 +30,19 @@ So let's get ahead
 
 -> Before moving ahead with the next step, enable OEM unlocking and USB debugging while you are in the developer options settings.
 
+##Steps on Pc
+
 **Now get on to your PC:-**
 
--> Download bootloader interface driver from here:- [Bootloader Drivers](https://t.me/XAGASupport/446550)
+*** 
+Download bootloader interface driver from here:- [Bootloader Drivers](https://t.me/XAGASupport/446550)
 
--> Get the official Xiaomi Unlock Tool from here:- [Mi Unlock tool](https://miuirom.org/updates/mi-flash-unlock)
+Get the official Xiaomi Unlock Tool from here:- [Mi Unlock tool](https://miuirom.org/updates/mi-flash-unlock)
+***
 
 -> Extract the zip file and open the application named “miflash_unlock.exe”. Log in using the same Mi account which is being used on the phone.
 
-**If it shows this error then just make a log folder in the unzipped directory**
+***If it shows this error then just make a log folder in the unzipped directory***
 
 ![error ](https://xiaomi.eu/community/attachments/miflash-install-message-1-png.48046/)
 

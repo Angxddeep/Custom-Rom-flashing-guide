@@ -1,6 +1,14 @@
-site_name: Flashing guide 
-site_url: https://mydomain.org/mysite
+site_name: Flashing Custom Rom Guide
+repo_url: https://github.com/deepangad/Custom-Rom-flashing-guide
+repo_name: Custom Rom flashing guide
 theme:
+  features:
+  - navigation.instant
+  - navigation.instant.progress
+  - navigation.tabs
+  - navigation.path
+  - navigation.indexes
+  - navigation.top
   name: material
   logo: images/logo.jpg
   palette:
@@ -18,5 +26,12 @@ theme:
     toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
-    
+  icon:
+    repo: fontawesome/brands/github
+nav:
+  - Geeting Started: 'Index.md'
+  - Unlocking bootloader: 'Unlocking bootloader.md'
+  - Rooting method: 'Root.md'
+ 
+
     
