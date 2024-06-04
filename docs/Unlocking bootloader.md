@@ -2,7 +2,6 @@
 hide:
   - navigation
 ---
-
 #**Unlocking Bootloader**
 **It's the first step for doing anything, whether it's flashing Custom ROM or rooting your device**
 
@@ -43,7 +42,8 @@ Get the official Xiaomi Unlock Tool from here:- [Mi Unlock tool](https://miuirom
 
 -> Extract the zip file and open the application named “miflash_unlock.exe”. Log in using the same Mi account which is being used on the phone.
 
-***If it shows this error then just make a log folder in the unzipped directory***
+!!! warning
+    If it shows this error then just make a log folder in the unzipped directory
 
 ![error ](https://xiaomi.eu/community/attachments/miflash-install-message-1-png.48046/)
 

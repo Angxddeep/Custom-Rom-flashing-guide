@@ -1,7 +1,19 @@
 site_name: Flashing Custom Rom Guide
-site_url: "https://deepangad.github.io/Custom-Rom-flashing-guide/index"
+site_url: "https://deepangad.github.io/Custom-Rom-flashing-guide/"
 repo_url: https://github.com/deepangad/Custom-Rom-flashing-guide
 repo_name: Custom Rom flashing guide
+edit_uri: ""
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
 theme:
   features:
   - navigation.instant
@@ -11,6 +23,7 @@ theme:
   - navigation.indexes
   - navigation.top
   name: material
+  favicon: images/logo.jpg
   logo: images/logo.jpg
   palette:
   - media: "(prefers-color-scheme: light)"
