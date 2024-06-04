@@ -7,7 +7,7 @@ hide:
 ## Why I made this site
 As new users are coming and deciding to get into custom ROM. I have made this guide as old guides have some outdated things.So I decided to make a new guide 
 
-~*This guide will work on almost all Xiaomi devices.* **The device I have used is Xaga**
+**The device I have used is Xaga**
 
 Many things have taken from old guides and I have just updated those and made a structured place to access them
 
