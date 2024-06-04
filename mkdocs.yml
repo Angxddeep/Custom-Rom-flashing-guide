@@ -2,7 +2,7 @@ site_name: Flashing guide
 site_url: https://mydomain.org/mysite
 theme:
   name: material
-  logo: .icons/logo.jpg
+  logo: images/logo.jpg
   palette:
   - media: "(prefers-color-scheme: light)"
     scheme: default
