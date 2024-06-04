@@ -1,4 +1,7 @@
-
+---
+hide:
+  - navigation
+---
 #**Flashing Stock Rom**
 MIUI Official Fastboot ROM Flashing Method
 [@ChrisCatto](https://t.me/ChrisCatto)

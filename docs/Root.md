@@ -1,4 +1,8 @@
-﻿#**Root**
+﻿---
+hide:
+  - navigation
+---
+#**Root**
 **You will need a laptop/PC for this. Bootloader must be unlocked for this.**
 
 
