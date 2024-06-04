@@ -2,6 +2,7 @@
 hide:
   - navigation
 ---
+
 #**Unlocking Bootloader**
 **It's the first step for doing anything, whether it's flashing Custom ROM or rooting your device**
 
