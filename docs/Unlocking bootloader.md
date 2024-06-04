@@ -1,4 +1,5 @@
-﻿**It's the first step for doing anything, whether it's flashing Custom ROM or rooting your device**
+﻿#**Unlocking Bootloader**
+**It's the first step for doing anything, whether it's flashing Custom ROM or rooting your device**
 
 So let's get ahead
 
@@ -25,7 +26,7 @@ So let's get ahead
 
 -> Before moving ahead with the next step, enable OEM unlocking and USB debugging while you are in the developer options settings.
 
-**Now get on to your PC**
+**Now get on to your PC:-**
 
 -> Download bootloader interface driver from here:- [Bootloader Drivers](https://t.me/XAGASupport/446550)
 
