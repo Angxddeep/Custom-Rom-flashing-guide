@@ -4,7 +4,7 @@ hide:
 ---
 #**Flashing Stock Rom**
 MIUI Official Fastboot ROM Flashing Method
-[@ChrisCattoMay](https://t.me/ChrisCatto)
+[@ChrisCatto](https://t.me/ChrisCatto)
 
 **THIS GUIDE APPLIES ONLY ON OFFICIAL MIUI ROMS. NOT IN CUSTOM ROMS LIKE OPMOD**
 
