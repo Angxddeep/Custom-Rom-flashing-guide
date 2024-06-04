@@ -18,7 +18,6 @@ theme:
   features:
   - navigation.instant
   - navigation.instant.progress
-  - navigation.tabs
   - navigation.path
   - navigation.indexes
   - navigation.top
