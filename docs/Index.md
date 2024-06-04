@@ -1,8 +1,4 @@
-﻿---
-hide:
-  - navigation
----
-
+﻿
 # **Custom Rom flashing guide**
 ## Why I made this site
 As new users are coming and deciding to get into custom ROM. I have made this guide as old guides have some outdated things.So I decided to make a new guide 

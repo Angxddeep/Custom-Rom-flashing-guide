@@ -1,7 +1,4 @@
----
-hide:
-  - navigation
----
+
 
 # Flashing `CFW` on `xaga` and unbrick it
 
