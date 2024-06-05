@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 #**Flashing Stock Rom**
-MIUI Official Fastboot ROM Flashing Method
+MIUI Official Fastboot ROM Flashing Method by
 [@ChrisCatto](https://t.me/ChrisCatto)
 
 **THIS GUIDE APPLIES ONLY ON OFFICIAL MIUI ROMS. NOT IN CUSTOM ROMS LIKE OPMOD**
@@ -18,7 +18,7 @@ MIUI Official Fastboot ROM Flashing Method
 
 Getting the Fastboot Rom:
 
-Get the latest fastboot ROM from the group by typing /fastboot xaga or from here (https://xiaomifirmwareupdater.com/miui/xaga/) but make sure you're downloading a fastboot rom and not recovery.
+Get the latest fastboot ROM from the group by typing /fastboot xaga or from [here](https://xiaomifirmwareupdater.com/miui/xaga/) but make sure you're downloading a fastboot rom and not recovery.
 
 !!! warning
     ROM must be extracted in C Drive without any subsequent sub folders.
