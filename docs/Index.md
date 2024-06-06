@@ -5,11 +5,11 @@ hide:
 
 # **Custom Rom flashing guide**
 ## Why I made this site
-As new users are coming and deciding to get into custom ROM. I have made this guide as old guides have some outdated things.So I decided to make a new guide 
+As new users are coming and deciding to get into flashing custom ROM. I have decided to made this guide as most of the old guides have outdated things that can get you into trouble. **So I decided to make a new guide** 
 
 **The device I have used is Xaga**
 
-Many things have taken from old guides and I have just updated those and made a structured place to access them
+Many things have taken from old guides and I have just updated those and made a structured place to access them :)
 
 
 ## Resources taken from and modified:

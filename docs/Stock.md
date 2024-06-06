@@ -6,7 +6,7 @@ hide:
 MIUI Official Fastboot ROM Flashing Method by
 [@ChrisCatto](https://t.me/ChrisCatto)
 
-**THIS GUIDE APPLIES ONLY ON OFFICIAL MIUI ROMS. NOT IN CUSTOM ROMS LIKE OPMOD**
+**THIS GUIDE APPLIES ONLY ON OFFICIAL MIUI ROMS. NOT IN CUSTOM ROMS LIKE OPMOD,PAPER OS**
 
 ## Requirements:
 
