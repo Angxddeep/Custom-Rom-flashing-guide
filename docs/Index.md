@@ -11,6 +11,14 @@ As new users are coming and deciding to get into flashing custom ROM. I have dec
 
 Many things have taken from old guides and I have just updated those and made a structured place to access them :)
 
+## **See Here To Continue**
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Angxddeep/Custom-Rom-flashing-guide/9ae99c8686b75f2171c6ddef1915add7e1db352c/docs/images/arrow.png" width="300" height="300">
+
+</p>
+
 
 ## Resources taken from and modified:
 
