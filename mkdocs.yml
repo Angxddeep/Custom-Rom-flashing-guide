@@ -24,6 +24,7 @@ theme:
   - navigation.path
   - navigation.indexes
   - navigation.top
+  - navigation.footer
   name: material
   favicon: images/logo.jpg
   logo: images/logo.jpg
@@ -59,3 +60,4 @@ extra:
     link: https://x.com/Angxddeep
   - icon: fontawesome/brands/github
     link: https://github.com/Angxddeep
+copyright: Copyright &copy; 2024 Angaddeep Singh
