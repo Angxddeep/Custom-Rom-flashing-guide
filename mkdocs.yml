@@ -25,6 +25,7 @@ theme:
   - navigation.indexes
   - navigation.top
   - navigation.footer
+  - search.suggest
   name: material
   favicon: images/logo.jpg
   logo: images/logo.jpg
@@ -61,3 +62,6 @@ extra:
   - icon: fontawesome/brands/github
     link: https://github.com/Angxddeep
 copyright: Copyright &copy; 2024 Angaddeep Singh
+plugins:
+  - optimize
+  - search
