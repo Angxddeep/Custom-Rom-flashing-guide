@@ -63,5 +63,4 @@ extra:
     link: https://github.com/Angxddeep
 copyright: Copyright &copy; 2024 Angaddeep Singh
 plugins:
-  - optimize
   - search
