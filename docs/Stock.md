@@ -32,7 +32,7 @@ Get the latest fastboot ROM from the group by sending the command */fastboot xag
 !!! warning
     If you get this error then just make a log folder in the unzipped directory of Mi Flash tool.
 
-![error](https://xiaomi.eu/community/attachments/miflash-install-message-1-png.48046/)
+![error](/docs/images/Miflasherror.png)
 
 ## Flashing Process:
 
