@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# **Custom Rom flashing guide**
+# **All in One Guide**
 ## Why I made this site
 As new users are coming and deciding to get into flashing custom ROM. I have decided to make this guide as most of the old guides have outdated things that can get you into trouble. **So I decided to make a new guide** 
 
