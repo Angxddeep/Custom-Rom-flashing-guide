@@ -1,9 +1,10 @@
-site_name: Flashing Custom Rom Guide
+site_name: All in One Guide
 site_url: https://angxddeep.github.io/All-in-one-guide/
 site_author: Angaddeep Singh
 repo_url: https://github.com/deepangad/Custom-Rom-flashing-guide
-repo_name: Custom Rom flashing guide
+repo_name: All in One Guid
 edit_uri: ""
+
 markdown_extensions:
   - admonition
   - attr_list
@@ -58,4 +59,3 @@ extra:
     link: https://x.com/Angxddeep
   - icon: fontawesome/brands/github
     link: https://github.com/Angxddeep
-
