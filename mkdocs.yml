@@ -1,5 +1,6 @@
 site_name: Flashing Custom Rom Guide
-site_url: "https://angxddeep.github.io/All-in-one-guide/"
+site_url: https://angxddeep.github.io/All-in-one-guide/
+site_author: Angaddeep Singh
 repo_url: https://github.com/deepangad/Custom-Rom-flashing-guide
 repo_name: Custom Rom flashing guide
 edit_uri: ""
@@ -43,12 +44,18 @@ theme:
   icon:
     repo: fontawesome/brands/github
 nav:
-  - Geeting Started: 'Index.md'
+  - Home: 'Index.md'
   - Unlocking bootloader: 'Unlocking bootloader.md'
   - Rooting method: 'Root.md'
   - Flashing stock rom: 'Stock.md'
   - Unbrick Guide: 'Unbrick.md'
+  
+  # Additional configuration
 
- 
+extra:
+  social:
+  - icon: fontawesome/brands/twitter
+    link: https://x.com/Angxddeep
+  - icon: fontawesome/brands/github
+    link: https://github.com/Angxddeep
 
-    
