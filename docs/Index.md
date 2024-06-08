@@ -1,30 +1,30 @@
-﻿---
+---
 hide:
   - navigation
 ---
 
-# **All in One Guide**
-## Why I made this site
-As new users are coming and deciding to get into flashing custom ROM. I have decided to make this guide as most of the old guides have outdated things that can get you into trouble. **So I decided to make a new guide** 
+# **All in one guide**
+## Why I made this site:
+As new users are coming and choosing to flash custom ROMs or root their devices, I decided to make this site as most of the guides are kind of outdated which that can get you into some trouble while modifying your device.
 
-**The device I have used is Xaga**
+Many things have been taken from old guides and I have just updated those and made a structured place to access them :).
 
-Many things have taken from old guides and I have just updated those and made a structured place to access them :)
+**These guides are made for <ins>POCO X4 GT / Redmi Note 11T Pro (+) / K50i (xaga)</ins>. I am not responsible if you choose to use them for other xiaomi devices and things don't go as expected.**
 
-## **See Here To Continue**
+## Click here to continue:
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Angxddeep/Custom-Rom-flashing-guide/9ae99c8686b75f2171c6ddef1915add7e1db352c/docs/images/arrow.png" width="300" height="300">
+<img src="https://raw.githubusercontent.com/Angxddeep/All-in-one-guide/main/docs/images/arrow.png" width="300" height="300">
 
 </p>
 
 
-## Resources taken from and modified:
+## Original resources which I modified:
 
-- [Unlocking Bootloader](https://telegra.ph/Unlocking-Bootloader-05-24)
-- [Rooting method](https://telegra.ph/Rooting-Method-02-15)
-- [Fastboot ROM flashing method](https://telegra.ph/How-to-flash-miui-fastboot-rom-05-27)
+- [Unlocking bootloader](https://telegra.ru/Unlocking-Bootloader-05-24)
+- [Rooting method](https://telegra.ru/Rooting-Method-02-15)
+- [Fastboot ROM flashing method](https://telegra.ru/How-to-flash-miui-fastboot-rom-05-27)
 - [Unbrick guide](https://guide.itsvixano.me/preloader_xaga)
 
 
