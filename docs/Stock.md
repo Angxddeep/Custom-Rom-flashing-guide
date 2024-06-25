@@ -6,7 +6,7 @@ hide:
 MIUI Official Fastboot ROM Flashing Method by
 [@ChrisCatto](https://t.me/ChrisCatto).
 
-**THIS GUIDE APPLIES ONLY ON OFFICIAL MIUI Roms. NOT IN CUSTOM Roms LIKE OP MOD, PAPER OS.**
+**THIS GUIDE APPLIES ONLY ON OFFICIAL MIUI ROMS. NOT IN CUSTOM ROMS LIKE OPMOD, PAPER OS.**
 
 ## Requirements:
 
@@ -43,9 +43,9 @@ Get the latest fastboot ROM from the group by sending the command */fastboot xag
 3. On the bottom right corner of Mi Flash tool, there are 3 bullet marks. Each of them means the following:
 
 ***
-* **Clean all and lock - This will flash stock ROM, wipe data and re lock bootloader.**
+* **Clean all and lock - This will flash stock ROM, wipe data and relock bootloader.**
 
-* **Clean all - This will wipe user data and flash stock ROM. This will not re lock bootloader.**
+* **Clean all - This will wipe user data and flash stock ROM. This will not relock bootloader.**
 
 * **Save User Data - This will flash stock ROM and keep existing user data. But it will only work if ROM version is same as the one already flashed on your device.**
 
